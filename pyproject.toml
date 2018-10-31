@@ -6,7 +6,7 @@ authors = ["Nariman Safiulin <woofilee@gmail.com>"]
 license = "MIT"
 
 readme = "README.md"
-repository = "https://github.com/narimanized/concord-ext-player"
+repository = "https://github.com/narimanizett/concord-ext-player"
 
 keywords = ["discord", "concord", "bot", "player", "music"]
 classifiers = [
@@ -26,7 +26,7 @@ packages = [
 [tool.poetry.dependencies]
 python = "^3.6"
 cncrd = "^0.10.1"
-cncrd-ext-audio = { git = "https://github.com/narimanized/concord-ext-audio.git", tag = "v0.1.0" }
+cncrd-ext-audio = { git = "https://github.com/narimanizett/concord-ext-audio.git", tag = "v0.1.0" }
 "discord.py" = { git = "https://github.com/Rapptz/discord.py.git", branch = "rewrite", extras = ["voice"] }
 streamlink = "^0.14.0"
 youtube-dl = "*"

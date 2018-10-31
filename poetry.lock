@@ -168,7 +168,7 @@ cncrd = "^0.10.1"
 [package.source]
 reference = "v0.1.0"
 type = "git"
-url = "https://github.com/narimanized/concord-ext-audio.git"
+url = "https://github.com/narimanizett/concord-ext-audio.git"
 [[package]]
 category = "main"
 description = "Cross-platform colored terminal text."
