@@ -33,7 +33,7 @@ youtube-dl = "*"
 
 [tool.poetry.dev-dependencies]
 black = "^18.9b0"
-pre-commit = "^1.12"
+pre-commit = "^1.15"
 
 [tool.black]
 line-length = 80
