@@ -28,7 +28,7 @@ python = "^3.6"
 cncrd = "^0.10.1"
 cncrd-ext-audio = { git = "https://github.com/narimanizett/concord-ext-audio.git", tag = "v0.1.0" }
 "discord.py" = { git = "https://github.com/Rapptz/discord.py.git", branch = "rewrite", extras = ["voice"] }
-streamlink = "^0.14.0"
+streamlink = "^1.1.1"
 youtube-dl = "*"
 
 [tool.poetry.dev-dependencies]
